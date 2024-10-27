@@ -1,6 +1,7 @@
 # Mission 2
 
 ## Part 0
+https://94e6yr.buildship.run/task3
 
 [Link to video](https://www.youtube.com/watch?v=UUhavvMO2FQ)
 
